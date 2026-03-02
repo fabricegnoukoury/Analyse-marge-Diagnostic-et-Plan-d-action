@@ -1,19 +1,24 @@
 # Projet Power BI
 
-Ce dossier contient les fichiers Power BI développé pour l’analyse de la performance commerciale.
+Ce dossier contient les rapports Power BI développés pour analyser la performance commerciale et la rentabilité.
 
-## Contenu
+# Rapports 
 
-- Modèle de données intégré
-- Mesures DAX pour les KPI financiers
-- Tableaux de bord interactifs
+## Rapport 1. Mesure de la performance
+Tableaux de bord permettant de suivre les indicateurs clés :
+- Chiffre d’affaires
+- Coûts
+- Profit et marge
+- Analyse par produit, pays et segment
 
-## Fonctionnalités
+## Rapport 2. Explication des écarts de performance
+Analyse des variations par rapport au trimestre précédent :
+- Drivers du chiffre d’affaires
+- Drivers des coûts
+- Drivers de la marge
+- Analyse Volume / Mix / Prix / Coûts
 
-- Analyse multidimensionnelle (Produit, Pays, Segment, Type de remises, Période)
-- Suivi du chiffre d’affaires, des coûts et de la rentabilité
-- Analyse des drivers : Volume, Mix, Prix, Coûts
+# Objectif
 
-## Objectif
-
-Fournir un outil décisionnel permettant d’explorer la performance et d’identifier les leviers d’amélioration.
+Fournir une vision complète du pilotage :
+Mesurer la performance actuelle et expliquer ses évolutions.
