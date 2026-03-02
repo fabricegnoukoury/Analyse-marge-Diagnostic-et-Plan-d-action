@@ -27,9 +27,6 @@ Rapports Power BI :
 ### 04_Dashboards
 Captures des tableaux de bord développés
 
-### 05_Analyse
-Synthèse des analyses et identification des drivers de performance
-
 ---
 
 ## 📊 KPI & Analyses
