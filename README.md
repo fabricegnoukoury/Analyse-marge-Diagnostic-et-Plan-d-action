@@ -1,5 +1,16 @@
 # Analyse de performance commerciale multi-produits — Power BI & Analyse financière
+
 De la donnée brute aux insights business : modélisation Power BI (schéma en étoile), KPI DAX et dashboards pour analyser la performance commerciale et la rentabilité (Volume, Mix, Prix, Coûts).
+
+## Aperçu des dashboards
+
+### Mesure de la performance
+
+![Dashboard performance](04_Dashboards/dashboard-performance.png)
+
+### Analyse des écarts de performance
+
+![Dashboard écarts](04_Dashboards/dashboard-ecarts.png)
 
 
 ## 🎯 Objectif du projet
