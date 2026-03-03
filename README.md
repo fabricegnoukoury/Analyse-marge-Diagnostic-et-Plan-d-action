@@ -1,4 +1,4 @@
-# Analyse de performance financière multi-produits — Power BI & Analyse financière
+# Analyse de performance financière multi-produits
 
 ## Contexte
 
