@@ -1,13 +1,19 @@
 # Analyse de performance commerciale multi-produits — Power BI & Analyse financière
 
-De la donnée brute aux insights business : modélisation Power BI (schéma en étoile), KPI DAX et dashboards pour analyser la performance commerciale et la rentabilité (Volume, Mix, Prix, Coûts).
+## Contexte:
+
+Une entreprise internationale commercialise plusieurs produits dans différents pays et segments clients. La croissance du chiffre d’affaires ne se traduit pas systématiquement par une amélioration du profit.
+
+Ce projet vise à identifier et quantifier les principaux leviers d’amélioration de la rentabilité (Volume, Mix, Prix, Coûts) afin de formuler des recommandations priorisées.
 
 
-## 🎯 Objectif du projet
+## 🎯Méthodologie de travail
 
-À partir de données brutes issues de bases opérationnelles, construire un modèle de données et des dashboards permettant d’analyser la performance commerciale et la rentabilité d’une entreprise internationale multi-produits.
+Transformation de données opérationnelles brutes en insights décisionnels à travers :
 
-Le projet vise à fournir des outils décisionnels permettant de mesurer la performance et d’expliquer ses évolutions.
+- La modélisation des données en schéma en étoile  
+- La construction de KPI financiers en DAX  
+- La conception de dashboards Power BI orientés pilotage de performance  
 
 ---
 
