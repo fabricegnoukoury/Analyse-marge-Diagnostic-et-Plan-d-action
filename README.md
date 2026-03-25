@@ -13,10 +13,12 @@ Malgré une activité commerciale soutenue, la marge brute du segment B2B se dé
 • La marge passe de 5,4% à 3,3% (-2,1 pts)
 • La marge brute diminue de ~450K€ à ~255K€
 
+
 ## Problématique
 
 • Quels drivers expliquent la dégradation de la marge entre T1 et T4 2023
 • Quels leviers permettraient de la restaurer ?
+
 
 ## Approche
 
@@ -28,10 +30,12 @@ De la donnée brute à la décision :
 - Décomposition des drivers de performance (Volume, Mix, Prix, Coûts)
 - Recommandations
 
+
 ## Stack technique
 - Power BI
 - DAX
 - Modélisation en schéma étoile
+
 
 ## Contenu du repo
 - Contexte business & problématique
