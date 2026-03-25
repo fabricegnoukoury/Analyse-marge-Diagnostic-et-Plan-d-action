@@ -4,6 +4,7 @@ Ce dossier contient les données utilisées pour le projet d’analyse de perfor
 
 ## Contenu
 
+- Dictionnaire des données et définition des KPI utilisés
 - Données brutes issues de bases opérationnelles
 - Données nettoyées et préparées pour l’analyse (via Power Query)
 
