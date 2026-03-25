@@ -14,7 +14,6 @@ Analyse au niveau transactionnel permettant une exploration par :
 - Produit
 - Pays
 - Segment client
-- Type de remises
 - Période
 
 ## Objectif
