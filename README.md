@@ -1,4 +1,4 @@
-## Érosion de la marge B2B : diagnostic et plan d’action
+## Érosion de la marge du segment B2B chez AdventureWorks : diagnostic et plan d’action
 
 ## Situation
 
