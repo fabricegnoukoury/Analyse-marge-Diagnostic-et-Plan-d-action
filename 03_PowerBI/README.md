@@ -12,7 +12,7 @@ Identifier les drivers de la baisse de marge et les leviers de restauration de l
 - Suivi de la performance (chiffre d’affaires, coûts, marge)
 - Décomposition de la variation de marge (volume, mix, prix, coûts)
 - Analyse des ventes à perte
-- Identification des segments responsables (focus vélos de route)
+- Identification des segments responsables
 - Recommandations pour restaurer la rentabilité
   
 ## 🔍 Insight clé
