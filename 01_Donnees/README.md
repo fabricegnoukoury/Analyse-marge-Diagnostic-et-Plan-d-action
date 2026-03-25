@@ -1,6 +1,6 @@
 # Données
 
-Ce dossier contient les données utilisées pour le projet d’analyse de performance commerciale.
+Ce dossier contient les données utilisées pour l'analyse.
 
 ## Contenu
 
