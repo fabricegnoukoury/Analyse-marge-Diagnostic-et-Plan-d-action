@@ -6,6 +6,7 @@ Adventure Works Cycles est un acteur du marché du vélo positionné sur des pro
 Le segment B2B constitue un levier clé de volume, avec une dépendance à des coûts de production (matières premières, composants) et à une chaîne logistique complexe.
 En 2023, l’entreprise évolue dans un environnement concurrentiel avec des pressions potentielles sur les coûts et les prix.
 
+
 ## Complication
 
 Malgré une activité commerciale soutenue, la marge brute du segment B2B se dégrade continuellement entre le T1 et le T4 2023.
