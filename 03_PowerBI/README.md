@@ -1,23 +1,17 @@
 # Projet Power BI
 
-Ce dossier contient les rapports Power BI développés pour analyser la performance commerciale et la rentabilité.
+Ce projet présente des tableaux de bord Power BI conçus pour analyser la dégradation de la marge B2B et identifier 
+les leviers de restauration de la rentabilité.
 
 # Rapports 
 
-## Rapport 1. Mesure de la performance
-Tableaux de bord permettant de suivre les indicateurs clés :
-- Chiffre d’affaires
-- Coûts
-- Profit et marge
-- Analyse par produit, pays et segment
+Analyse détaillée des écarts de performance entre le Trimestre 1 et Trimestre 4 :
 
-## Rapport 2. Explication des écarts de performance
-Analyse des variations par rapport au trimestre précédent :
-- Drivers du chiffre d’affaires
-- Drivers des coûts
-- Drivers de la marge
-- Analyse Volume / Mix / Prix / Coûts
+- Décomposition de la variation de marge
+- Analyse des drivers : Volume / Mix / Prix / Coûts
+- Identification des segments contributifs
 
+👉 Objectif : expliquer les causes de la baisse de marge
 # Objectif
 
 Fournir une vision complète du pilotage :
