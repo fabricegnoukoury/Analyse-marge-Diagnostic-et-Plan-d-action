@@ -38,7 +38,6 @@ De la donnée brute à la décision :
 
 
 ## Contenu du repo
-- Contexte business & problématique
-- B2B_KPI_Framework_and_Data_Dictionary.xlsx (KPI & dictionnaire de données)
 - Données brutes
+- Dictionnaire des données
 - Diagnostic_Marge_B2B.pbix
