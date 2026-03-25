@@ -1,18 +1,28 @@
-# Projet Power BI
+# 📊 Diagnostic de la marge B2B – Power BI
 
-Ce projet présente des tableaux de bord Power BI conçus pour analyser la dégradation de la marge B2B et identifier 
-les leviers de restauration de la rentabilité.
+Ce rapport Power BI analyse la dégradation de la marge du segment B2B entre le T1 et le T4 2023 
+pour une entreprise de fabrication et de vente de vélos
 
-# Rapports 
+## 🎯 Objectif
 
-Analyse détaillée des écarts de performance entre le Trimestre 1 et Trimestre 4 :
+Identifier les drivers de la baisse de marge et les leviers de restauration de la rentabilité.
 
-- Décomposition de la variation de marge
-- Analyse des drivers : Volume / Mix / Prix / Coûts
-- Identification des segments contributifs
+## 📈 Contenu du rapport
 
-👉 Objectif : expliquer les causes de la baisse de marge
-# Objectif
+- Suivi de la performance (CA, coûts, marge)
+- Décomposition de la variation de marge (Volume / Mix / Prix / Coûts)
+- Analyse des ventes à perte
+- Identification des segments responsables (focus Road Bikes)
+- Analyse unitaire des produits
 
-Fournir une vision complète du pilotage :
-Mesurer la performance actuelle et expliquer ses évolutions.
+## 🔍 Insight clé
+
+👉 La baisse de marge est principalement liée à une hausse des ventes à perte.
+
+👉 Les vélos de route concentrent l’essentiel des pertes, avec une marge unitaire négative amplifiée par des volumes élevés.
+
+## 💡 Utilisation
+
+- Navigation par pages (performance → drivers → analyse détaillée)
+- Filtres disponibles par produit, pays et segment
+- Drill-through pour analyse produit détaillée
