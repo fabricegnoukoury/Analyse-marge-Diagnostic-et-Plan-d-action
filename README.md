@@ -38,6 +38,6 @@ De la donnée brute à la décision :
 
 
 ## Contenu du repo
+- Dictionnaire des données et définition des KPI
 - Données brutes
-- Dictionnaire des données
 - Diagnostic_Marge_B2B.pbix
