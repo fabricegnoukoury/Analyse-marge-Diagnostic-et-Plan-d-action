@@ -28,7 +28,7 @@ De la donnée brute à la décision :
 - Définition de KPI en DAX
 - Construction de dashboards analytiques
 - Décomposition des drivers de performance (Volume, Mix, Prix, Coûts)
-- Recommandations
+- Identification des leviers d’action et recommandations
 
 
 ## Stack technique
@@ -38,6 +38,6 @@ De la donnée brute à la décision :
 
 
 ## Contenu du repo
-- Dictionnaire des données et définition des KPI
+- Dictionnaire_des_données.xlsx → dictionnaire de données & KPI 
 - Données brutes
-- Diagnostic_Marge_B2B.pbix
+- Diagnostic_Marge_B2B.pbix  → dashboard et analyse  
