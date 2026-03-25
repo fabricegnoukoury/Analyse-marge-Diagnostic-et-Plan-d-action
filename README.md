@@ -2,9 +2,9 @@
 
 ## Situation
 
-Adventure Works Cycles est un acteur du marché du vélo positionné sur des produits de moyenne à haute gamme, distribués via deux canaux : B2B (revendeurs) et B2C (direct).
-Le segment B2B constitue un levier clé de volume, avec une dépendance à des coûts de production (matières premières, composants) et à une chaîne logistique complexe.
-En 2023, l’entreprise évolue dans un environnement concurrentiel avec des pressions potentielles sur les coûts et les prix.
+- Adventure Works Cycles est un acteur du marché du vélo positionné sur des produits de moyenne à haute gamme, distribués via deux canaux : B2B (revendeurs) et B2C (direct).
+- Le segment B2B constitue un levier clé de volume, avec une dépendance à des coûts de production (matières premières, composants) et à une chaîne logistique complexe.
+- En 2023, l’entreprise évolue dans un environnement concurrentiel avec des pressions potentielles sur les coûts et les prix.
 
 
 ## Complication
