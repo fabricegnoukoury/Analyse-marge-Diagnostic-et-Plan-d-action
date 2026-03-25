@@ -37,7 +37,7 @@ De la donnée brute à la décision :
 - Modélisation en schéma étoile
 
 
-## Contenu du repo
+## Contenu
 - Dictionnaire_des_données.xlsx → dictionnaire de données & KPI 
 - Données brutes
-- Diagnostic_Marge_B2B.pbix  → dashboard et analyse  
+- Diagnostic_Marge_B2B.pbix  → dashboard analytiques et insights 
