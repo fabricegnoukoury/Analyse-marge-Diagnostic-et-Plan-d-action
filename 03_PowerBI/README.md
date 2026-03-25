@@ -9,17 +9,15 @@ Identifier les drivers de la baisse de marge et les leviers de restauration de l
 
 ## 📈 Contenu du rapport
 
-- Suivi de la performance (CA, coûts, marge)
-- Décomposition de la variation de marge (Volume / Mix / Prix / Coûts)
+- Suivi de la performance (chiffre d’affaires, coûts, marge)
+- Décomposition de la variation de marge (volume, mix, prix, coûts)
 - Analyse des ventes à perte
-- Identification des segments responsables (focus Road Bikes)
-- Analyse unitaire des produits
-
+- Identification des segments responsables (focus vélos de route)
+- Recommandations pour restaurer la rentabilité
+  
 ## 🔍 Insight clé
 
 👉 La baisse de marge est principalement liée à une hausse des ventes à perte.
-
-👉 Les vélos de route concentrent l’essentiel des pertes, avec une marge unitaire négative amplifiée par des volumes élevés.
 
 ## 💡 Utilisation
 
