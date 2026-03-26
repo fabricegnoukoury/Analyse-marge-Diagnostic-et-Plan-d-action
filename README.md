@@ -10,8 +10,8 @@
 ## Complication
 
 Malgré une activité commerciale soutenue, la marge brute du segment B2B se dégrade continuellement entre le T1 et le T4 2023.
-- La marge passe de 5,4% à 3,3% (-2,1 pts)
 - La marge brute diminue de ~450K€ à ~255K€
+- Le taux de marge passe de 5,4% à 3,3% (-2,1 pts)
 
 
 ## Problématique
