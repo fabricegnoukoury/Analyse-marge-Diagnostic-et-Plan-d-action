@@ -7,6 +7,7 @@ Ce dossier présente le modèle de données conçu pour l’analyse de performan
 - Schéma en étoile
 - Tables de faits et dimensions
 - Relations optimisées pour l’analyse
+- Les formules utlisées pour effectuer les analyses
 
 ## Granularité
 
