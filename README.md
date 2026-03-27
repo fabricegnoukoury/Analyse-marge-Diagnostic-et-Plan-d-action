@@ -34,8 +34,8 @@ De la donnée brute à la décision :
 ## Stack technique
 - Power Query
 - Modélisation en schéma étoile
-- Power BI
 - DAX
+- Power BI (visuels)
 
 
 ## Contenu
