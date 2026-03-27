@@ -34,8 +34,8 @@ De la donnée brute à la décision :
 ## Stack technique
 - Power Query – ETL, nettoyage et transformation des données
 - Modélisation en schéma étoile – structuration analytique (faits & dimensions)
-- DAX – mesures analytiques
-- Power BI – visualisation 
+- DAX – mesures analytiques, time intelligence
+- Power BI – dashboard et reportings 
 
 ## Contenu
 - Dictionnaire_des_données.xlsx → dictionnaire de données & KPI 
