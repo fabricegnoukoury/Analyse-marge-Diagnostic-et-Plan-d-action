@@ -4,9 +4,8 @@ Ce dossier contient les données utilisées pour l'analyse.
 
 ## Contenu
 
-- Dictionnaire des données et définition des KPI utilisés
+- Dictionnaire des données
 - Données brutes issues de bases opérationnelles
-- Données nettoyées et préparées pour l’analyse (via Power Query)
 
 ## Objectif
 
