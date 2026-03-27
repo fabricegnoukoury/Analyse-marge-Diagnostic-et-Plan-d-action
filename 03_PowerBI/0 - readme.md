@@ -15,6 +15,7 @@ Identifier les drivers de la baisse de marge et les leviers de restauration de l
 - Identification des segments responsables
 - Recommandations pour restaurer la rentabilité
   
+  
 ## 🔍 Insight clé
 
 👉 La baisse de marge est principalement liée à une hausse des ventes à perte.
