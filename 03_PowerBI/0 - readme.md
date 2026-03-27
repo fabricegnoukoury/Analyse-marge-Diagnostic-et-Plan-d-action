@@ -11,8 +11,9 @@ Identifier les drivers de la baisse de marge et les leviers de restauration de l
 
 - Suivi de la performance (chiffre d’affaires, coûts, marge)
 - Décomposition de la variation de marge (volume, mix, prix, coûts)
-- Analyse des ventes à perte
-- Identification des segments responsables
+- L'évolution du mix produit (principal facteur de dégradation de la marge)
+- Identification des gammes déficitaires et quantification de leur impact sur la marge
+- Focus sur la gamme la plus déficitaire
 - Recommandations pour restaurer la rentabilité
   
   
